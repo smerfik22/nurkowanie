@@ -11,3 +11,5 @@ Requirements:
 - skinchanger
 - es_extended
 - essentialmode 
+
+video - https://www.youtube.com/watch?v=fPOSuJnhazI 
