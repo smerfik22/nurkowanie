@@ -18,7 +18,7 @@ AddEventHandler('smerfik:nurkowanie', function(source)
 		['mask_1'] = 36, ['mask_2'] = 0 -- zaklada nam maskę (jako ubranie)
 		}
 		TriggerEvent('skinchanger:loadClothes', skin, clothesSkin)
-		ESX.ShowHelpNotification('Ubrałeś maske do nurkowania')
+		ESX.ShowHelpNotification('Rebreather equipped!')
 
 		SetPedMaxTimeUnderwater(GetPlayerPed(-1), 150.00) -- zwiększa czas który możemy spędzić pod wodą
 
