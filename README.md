@@ -8,7 +8,7 @@ UPDATE v1
 installation:
 - Add script into your resource folder
 - Add item `nurek` to items in data base
-- Start `nurkowanie` in server.cfg
+- Start `esx_nurkowanie` in server.cfg
 
 Requirements:
 - skinchanger
