@@ -2,6 +2,9 @@
 
 Simple script for diving mask made by Smerfik
 
+UPDATE v1
+- Script removes mask from player inventory after using it second time
+
 installation:
 - Add script into your resource folder
 - Add item `nurek` to items in data base
